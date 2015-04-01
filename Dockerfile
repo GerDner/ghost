@@ -1,1 +1,1 @@
-FROM dockerfile/ghost:lastest
+FROM ghost:lastest
