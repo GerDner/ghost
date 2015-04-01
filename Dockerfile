@@ -1,0 +1,1 @@
+FROM dockerfile/ghost:lastest
